@@ -1,0 +1,121 @@
+.page-wrapper {
+background-color: #DBECFC;
+text-align: center;
+max-width: 60vw;
+margin-right: auto;
+margin-left: auto;
+}
+#design-selection {
+  list-style-type: none;
+}
+#design-archives {
+  list-style-type: none;
+}
+#zen-resources {
+  list-style-type: none;
+}
+title {
+  background-image: url("fog.jpg");
+}
+h1 {
+  border-top: 8px solid #bbb;
+  border-left: 8px solid #bbb;
+  border-right: 8px solid #bbb;
+  border-bottom: 8px solid #bbb;
+  border-radius: 5px;
+  text-shadow: 2px 2px #bbb;
+}
+h2 {
+  text-shadow: 2px 2px #bbb;
+}
+h3 {
+  text-shadow: 2px 2px white;
+}
+html { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5667px; } ul { font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
+body {
+ background-image: url("fog.jpg");
+ height: 100px;
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: repeat;
+ background-size: cover;
+}
+.wrapper {
+  text-align: left;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+.intro {
+  padding-top: 2px;
+}
+.explanation {
+  border-top: solid 5px;
+  border-bottom: solid 5px;
+  border-left: solid 5px;
+  border-right: solid 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 10px;
+  margin-left: 500px;
+  text-align: right;
+}
+.participation {
+border-top-width: 5px;
+border-top-style: solid;
+border-right-width: 5px;
+border-right-style: solid;
+border-bottom-width: 5px;
+border-bottom-style: solid;
+border-left-width: 5px;
+border-left-style: solid;
+margin-right: 500px;
+margin-left: 10px;
+padding-left: 10px;
+padding-right: 10px;
+text-align: left;
+}
+.benefits {
+border-top-width: 5px;
+border-top-style: dashed;
+border-right-width: 5px;
+border-right-style: dashed;
+border-bottom-width: 5px;
+border-bottom-style: dashed;
+border-left-width: 5px;
+border-left-style: dashed;
+margin-top: 5px;
+margin-left: 10px;
+margin-right: 10px;
+border-color: #bbb;
+margin-top: 10px;
+}
+.requirements {
+  border-top-width: 5px;
+  border-top-style: dashed;
+  border-right-width: 5px;
+  border-right-style: dashed;
+  border-bottom-width: 5px;
+  border-bottom-style: dashed;
+  border-left-width: 5px;
+  border-left-style: dashed;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-color: #bbb;
+  margin-bottom: 10px;
+margin-top: 10px;
+}
+ul {
+ list-style-type: none;
+ padding: 0;
+ margin: 0;
+}
+div.wrapper {
+  column-count: 2;
+  column-rule-style: solid;
+  column-width: 400px;
+  text-align:center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  column-rule-color: #bbb;
+}
